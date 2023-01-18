@@ -1,0 +1,27 @@
+h1 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background:rgb(28, 129, 123);
+    color: white;
+    
+  }
+  h2 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(118, 231, 226)
+    
+  }
+  
+  p {
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+  }
+  h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(12, 216, 216);
+  }
